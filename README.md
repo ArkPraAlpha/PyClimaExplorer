@@ -194,6 +194,10 @@ KASHAF NOOR
 
 ---
 
+# 👨‍💻 Deployed Link
+https://appnewpy-eue58qbnhmqwsq6cpgynsm.streamlit.app/
+
+
 # ⭐ Acknowledgements
 
 * NOAA ERSST Dataset
